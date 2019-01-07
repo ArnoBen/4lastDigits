@@ -1,9 +1,5 @@
-#  -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 27 19:00:27 2018
+# I am aware that this could be solved in one line with pow(n,n,10000), but I guess this is not what you expect.
 
-@author: Arno
-"""
 import numpy as np
 
 def lastDigits(n):
