@@ -1,4 +1,4 @@
-# I am aware that this could be solved in one line with pow(n,n,10000), but I guess this is not what you expect.
+# I am aware that this could be solved in one line with pow(n,n,10000), but I will try a "manual" approach.
 
 import numpy as np
 
